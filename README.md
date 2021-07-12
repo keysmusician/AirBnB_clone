@@ -10,12 +10,13 @@ _Holberton School Air BnB clone_
 ## Table of Contents
 * [About](#about)
 * [The Console](#the-console)
+* [Web Static](#web-static)
 * [Authors](#authors)
 
 ## About
 HBnB is a clone of Air BnB. The project is divided into 7 parts:
 1. The console
-2. HTML
+2. Web Static
 3. MySQL
 4. Fabric
 5. Flask
@@ -72,6 +73,10 @@ aba364fd-8b9e-4c4b-b865-8db6a6e9bc03
 ["[Place] (aba364fd-8b9e-4c4b-b865-8db6a6e9bc03) {'created_at': datetime.datetime(2021, 7, 1, 13, 29, 27, 264673), 'id': 'aba364fd-8b9e-4c4b-b865-8db6a6e9bc03', 'updated_at': datetime.datetime(2021, 7, 1, 13, 29, 27, 264832)}"]
 (hbnb) 
 ```
+
+## Web Static
+
+The Web Static part of this project consisted of designing the website HTML and CSS.
 
 ## Authors
 Justin Masayda [@keysmusician](https://github.com/keysmusician)
